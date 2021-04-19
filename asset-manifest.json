@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/netflix-cards/static/css/main.d9aa8bb7.chunk.css",
+    "main.js": "/netflix-cards/static/js/main.48e790b3.chunk.js",
+    "main.js.map": "/netflix-cards/static/js/main.48e790b3.chunk.js.map",
+    "runtime-main.js": "/netflix-cards/static/js/runtime-main.be3bf27a.js",
+    "runtime-main.js.map": "/netflix-cards/static/js/runtime-main.be3bf27a.js.map",
+    "static/js/2.135830a4.chunk.js": "/netflix-cards/static/js/2.135830a4.chunk.js",
+    "static/js/2.135830a4.chunk.js.map": "/netflix-cards/static/js/2.135830a4.chunk.js.map",
+    "index.html": "/netflix-cards/index.html",
+    "precache-manifest.4625d5ff384cb1c375eca267f5941003.js": "/netflix-cards/precache-manifest.4625d5ff384cb1c375eca267f5941003.js",
+    "service-worker.js": "/netflix-cards/service-worker.js",
+    "static/css/main.d9aa8bb7.chunk.css.map": "/netflix-cards/static/css/main.d9aa8bb7.chunk.css.map",
+    "static/js/2.135830a4.chunk.js.LICENSE.txt": "/netflix-cards/static/js/2.135830a4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.be3bf27a.js",
+    "static/js/2.135830a4.chunk.js",
+    "static/css/main.d9aa8bb7.chunk.css",
+    "static/js/main.48e790b3.chunk.js"
+  ]
+}
